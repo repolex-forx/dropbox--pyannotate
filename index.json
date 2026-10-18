@@ -1,0 +1,11 @@
+{
+  "org": "dropbox",
+  "repo": "pyannotate",
+  "versions": [
+    {
+      "commit": "a7a46f394f0ba91a1b5fbf657e2393af542969ae",
+      "tag": "",
+      "parsed_at": "2026-10-18T04:53:45.325742+00:00"
+    }
+  ]
+}
